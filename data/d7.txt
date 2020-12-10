@@ -1,0 +1,1 @@
+Artificial intelligence is the simulation of human intelligence in machines with algorithms. Main goals of artificial intelligence include reasoning, learning, problem solving. Machine learning algorithms are popular in artificial intelligence.

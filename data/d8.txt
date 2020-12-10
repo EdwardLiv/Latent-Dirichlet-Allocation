@@ -1,0 +1,1 @@
+Artificial intelligence is colloquialy used to describe machines that mimic functions associated with the human mind, such as reasoning, learning and problem solving. Machine learning is a field of artificial intelligence. Algorithms are utilized for learning. 
